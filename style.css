@@ -689,12 +689,12 @@ section{
         width: 30rem;
     }
     
-    .menu .item .item img {
+    /* .menu .item .item img {
       justify-content: center;
       align-items: center;
       text-align: center;
       
-    }
+    } */
 
     .contact form .inputBox input{
       width: 45%;
